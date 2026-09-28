@@ -18,5 +18,5 @@ function EqualBtn (){
 }
 
 relapsemode.onclick = function(){
-    window.location.href = "/relapsemode/index.html"
+    window.location.href = "/index.html"
 }
